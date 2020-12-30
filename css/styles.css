@@ -6,10 +6,12 @@ body {
 }
 
 hr {
-  border: dotted #EAF6F6 6px;
+  border: dotted #f9e0ae 6px;
   border-bottom: none;
-  width: 4%;
-  margin: 100px auto;
+  width: 2%;
+  margin-left: 2%;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 a:hover {
@@ -31,13 +33,15 @@ form {
 /***********************CLASS SELECTOIRS*********************/
 
 .bottom_index {
-  border-color: grey;
+  border-color: #c24914;
   margin-left: 2%;
+  margin-bottom: 0;
   width: 15%;
 }
 
 .bottom_other {
-  border-color: grey;
+  border-color: #c24914;
   margin-left: 0;
+  margin-bottom: 0;
   width: 10%;
 }
